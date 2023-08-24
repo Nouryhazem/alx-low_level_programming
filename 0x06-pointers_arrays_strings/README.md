@@ -1,2 +1,2 @@
-0x06. C - More pointers, arrays and strings README.md 
+0x00. C - Hello, World
 
